@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm beginning to learn programming.
+I'm a Software Developer in Cincinnati, OH.
 Pronouns: he/him
