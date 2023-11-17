@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 I'm a Software Developer in Cincinnati, OH.
 Pronouns: he/him
+
+📫 How to reach me: www.linkedin.com/in/russellbhoffman
